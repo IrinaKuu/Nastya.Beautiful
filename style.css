@@ -1,0 +1,41 @@
+.page {
+margin: 5;
+font-size: 25px;
+display: flex;
+flex-direction: column-reverse;
+}
+/*header*/
+.header-pag{
+background-color: brown;
+}
+.p-content{
+background-color: aquamarine;
+}
+.header{
+box-sizing: content-box;
+margin: 15 auto;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+width: 20px;
+max-width: 14px;
+min-height: 100;
+left: 150px;
+top: 90px;
+background-color: black;
+}
+
+footer-columns{
+display: flex;
+}
+footer-columns{
+flex: 50%;
+margin: 24px;
+
+}
+header,footer{
+background-color: aquamarine;
+padding: 25px;
+
+}
